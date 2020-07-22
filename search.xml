@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>git相关操作</title>
+    <url>/2020/07/22/git%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C/</url>
+    <content><![CDATA[<p>#github<br>##github创建项目，并绑定本地项目<br>    Git init<br>    Git add .<br>    Git commit -m ‘first’<br>    git remote add origin <a href="https://github.com/kukuboy/actity.git" target="_blank" rel="noopener">https://github.com/kukuboy/actity.git</a><br>    git push -u origin master<br>    git pull<br>    git push –set-upstream origin master</p>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>html居中的方法</title>
     <url>/2020/07/22/html%E5%B1%85%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<p>#居中的方法</p>
@@ -17,18 +29,6 @@ transform: translate(-50%, -50%);</code></pre>]]></content>
       </categories>
       <tags>
         <tag>css</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>git相关操作</title>
-    <url>/2020/07/22/git%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C/</url>
-    <content><![CDATA[<p>#github<br>##github创建项目，并绑定本地项目<br>    Git init<br>    Git add .<br>    Git commit -m ‘first’<br>    git remote add origin <a href="https://github.com/kukuboy/actity.git" target="_blank" rel="noopener">https://github.com/kukuboy/actity.git</a><br>    git push -u origin master<br>    git pull<br>    git push –set-upstream origin master</p>
-]]></content>
-      <categories>
-        <category>git</category>
-      </categories>
-      <tags>
-        <tag>git</tag>
       </tags>
   </entry>
   <entry>
